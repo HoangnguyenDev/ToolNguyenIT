@@ -1,0 +1,11 @@
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\bin\Debug\netcoreapp1.1\ToolNguyenIT.deps.json
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\bin\Debug\netcoreapp1.1\ToolNguyenIT.runtimeconfig.json
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\bin\Debug\netcoreapp1.1\ToolNguyenIT.runtimeconfig.dev.json
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\bin\Debug\netcoreapp1.1\ToolNguyenIT.dll
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\bin\Debug\netcoreapp1.1\ToolNguyenIT.pdb
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\obj\Debug\netcoreapp1.1\ToolNguyenIT.csprojResolveAssemblyReference.cache
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\obj\Debug\netcoreapp1.1\ToolNguyenIT.csproj.CoreCompileInputs.cache
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\obj\Debug\netcoreapp1.1\ToolNguyenIT.AssemblyInfoInputs.cache
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\obj\Debug\netcoreapp1.1\ToolNguyenIT.AssemblyInfo.cs
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\obj\Debug\netcoreapp1.1\ToolNguyenIT.dll
+c:\users\nguye\source\repos\ToolNguyenIT\ToolNguyenIT\obj\Debug\netcoreapp1.1\ToolNguyenIT.pdb
